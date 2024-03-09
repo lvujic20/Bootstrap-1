@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0%;
+    padding: 0%;
+}
+
+hr {
+    color: rgb(218, 218, 218);
+    border: solid;
+    margin-bottom: 50px;
+}
+
